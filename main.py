@@ -630,7 +630,7 @@ with st.sidebar:
         "COMMAND HUB KEY", type="password", key="adm_v30_auth"
     )
     st.markdown(
-        '<a href="https://www.facebook.com/your-page-url" target="_blank" class="inst-link-box">🌐 Hon. Gaza Jonathan Gbefwi Facebook</a>',  # Updated link text
+        '<a href="https://www.facebook.com/ggbefwi/?_rdc=2&_rdr#" target="_blank" class="inst-link-box">🌐 Hon. Gaza Jonathan Gbefwi Facebook</a>',  # Updated link text
         unsafe_allow_html=True,
     )
     st.markdown("</div>", unsafe_allow_html=True)
